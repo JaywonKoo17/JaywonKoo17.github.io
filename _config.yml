@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Jaywon Koo"
   avatar           : "profile.png"
-  bio              : "I am a MSCS student at Columbia University."
+  bio              : "Multimodal AI, Emotion Detection, Spoken Language Processing, Computer Vision, Natural Language Processing"
   location         : "New York, NY"
+  location         : "Columbia University"
   employer         :
   pubmed           : 
   googlescholar    : 
