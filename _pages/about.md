@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-I am a MS student at Computer Science at Columbia University. My research interests lie in the areas of multimodal deep learning, speech recognition, computer vision and natural language processing. I am fortunate to be advised by Prof. [Julia Hirschberg[(http://www.cs.columbia.edu/~julia/).
+I am a MS student at Computer Science at Columbia University. My research interests lie in the areas of multimodal deep learning, speech recognition, computer vision and natural language processing. I am fortunate to be advised by Prof. [Julia Hirschberg](http://www.cs.columbia.edu/~julia/).
 
 I am broadly interested in making a deep learning model which interprets world and outputs as humans do: in desgining multimodal ai system where it uses speech, natural languge and vision to understand the world.  
 
