@@ -18,4 +18,4 @@ I have also worked with Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfcha
 
 Prior to starting my MS, I received my Bachelors degree in Computer Science and Engineering from Ewha Womans University in 2021. I was fortunate to be advised by [Dongbo Min](http://cvl.ewha.ac.kr/) and [Hyun-Seok Park](http://www.ewha.ac.kr/ewha/professor/info.do?mode=view&pId=xPCsLydiqzj%2FKdbYExXJKg%3D%3D) at Ewha Womans University. 
 
-You can find my CV here: [CV](files/Jaywon_CV_HP.pdf)
+You can find my CV here: [CV](http://JaywonKoo17.github.io/files/Jaywon_CV_HP.pdf)
