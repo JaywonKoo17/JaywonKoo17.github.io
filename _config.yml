@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jaywon Koo"
   avatar           : "profile.png"
-  bio              : "Vislang Lab"
+  bio              : "Vislang Lab",
                       "Dept. of Computer Science \n Rice University"
   location         : "Houston, TX"
   employer         :
