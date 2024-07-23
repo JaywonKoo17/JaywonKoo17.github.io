@@ -12,6 +12,8 @@ Hi!
 
 I am a first year computer science PhD student at [Vislang Lab](https://vislang.ai/) at [Rice University](https://csweb.rice.edu/), advised by [Prof. Vicente Ordonez](https://www.cs.rice.edu/~vo9/).
 
+My research focuses on developing general intelligence by integrating visual and linguistic information to enhance world understanding. I am particularly interested in multimodal reasoning, planning, and the application of neuro-symbolic methods.
+
 I completed my MS in Computer Science from [Columbia University](https://www.cs.columbia.edu/), where I worked on multimodal emotion detection in [Speech Lab](http://www.cs.columbia.edu/speech/lab.cgi), advised by Prof. [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). I have also worked with Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) at Columbia University.
 
 Previously, I graduated from Ewha Womans University with B.S. in Computer Science and Engineering, and Scranton Honors Program in 2021, where I was advised by Prof. [Dongbo Min](http://cvl.ewha.ac.kr/) and by Prof. [Hyun-Seok Park](http://www.ewha.ac.kr/ewha/professor/info.do?mode=view&pId=xPCsLydiqzj%2FKdbYExXJKg%3D%3D) .
@@ -31,7 +33,7 @@ Preprints
     <img src="images/PropTest.png" alt="Preprint Image" style="width: 150px; margin-right: 20px;">
     <div>
         <strong>PropTest: Automatic Property Testing for Improved Visual Programming</strong><br>
-        Jaywon Koo, Ziyan Yang, Paola Cascante-Bonilla, Baishakhi Ray, Vicente Ordóñez<br>
+         <strong>Jaywon Koo</strong>, Ziyan Yang, Paola Cascante-Bonilla, Baishakhi Ray, Vicente Ordóñez<br>
         March, 2024.<br>
         <a href="https://arxiv.org/abs/2403.16921">Paper</a> | <a href="https://jaywonkoo17.github.io/PropTest/">Project Page</a>
     </div>
