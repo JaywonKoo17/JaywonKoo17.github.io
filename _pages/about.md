@@ -27,23 +27,36 @@ Publications
 
 Preprints
 ---------
-![Preprint Image](images/PropTest.pdf)  
-**PropTest: Automatic Property Testing for Improved Visual Programming**  
-Jaywon Koo, Ziyan Yang, Paola Cascante-Bonilla, Baishakhi Ray, Vicente Ordóñez  
-March, 2024.  
-[Paper](https://arxiv.org/abs/2403.16921) | [Project Page](https://jaywonkoo17.github.io/PropTest/)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="images/PropTest.png" alt="Preprint Image" style="width: 150px; margin-right: 20px;">
+    <div>
+        <strong>PropTest: Automatic Property Testing for Improved Visual Programming</strong><br>
+        Jaywon Koo, Ziyan Yang, Paola Cascante-Bonilla, Baishakhi Ray, Vicente Ordóñez<br>
+        March, 2024.<br>
+        <a href="https://arxiv.org/abs/2403.16921">Paper</a> | <a href="https://jaywonkoo17.github.io/PropTest/">Project Page</a>
+    </div>
+</div>
 
 Publications
 ------------
-![Publication Image](images/Sentiment_Analysis.png)  
-**Multimodal Multi-loss Fusion Network for Sentiment Analysis**  
-Zehui Wu*, Ziwei Gong*, **Jaywon Koo**, Julia Hirschberg (*Joint First Authors)  
-Annual Conference of the North American Chapter of the Association for Computational Linguistics. NACCL 2024.
-[Paper](https://arxiv.org/abs/2308.00264v4) | [Code](https://github.com/zehuiwu/MMML)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="images/Sentiment_Analysis.png" alt="Publication Image" style="width: 150px; margin-right: 20px;">
+    <div>
+        <strong>Multimodal Multi-loss Fusion Network for Sentiment Analysis</strong><br>
+        Zehui Wu*, Ziwei Gong*, <strong>Jaywon Koo</strong>, Julia Hirschberg (*Joint First Authors)<br>
+        Annual Conference of the North American Chapter of the Association for Computational Linguistics. NACCL 2024.<br>
+        <a href="https://arxiv.org/abs/2308.00264v4">Paper</a> | <a href="https://github.com/zehuiwu/MMML">Code</a>
+    </div>
+</div>
 
-![Publication Image](images/Beyond_Grounding.png)  
-**Beyond Grounding: Extracting Fine-Grained Event Hierarchies Across Modalities**  
-Hammad Ayyubi, Christopher Thomas, Lovish Chum, Rahul Lokesh, Long Chen, Yulei Niu, 
-Xudong Lin, Xuande Feng, **Jaywon Koo**, Sounak Ray, Shih-Fu Chang
-Proceedings of the AAAI Conference on Artificial Intelligence. AAAI-24.
-[Paper](https://web3.arxiv.org/abs/2206.07207)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="images/Beyond_Grounding.png" alt="Publication Image" style="width: 150px; margin-right: 20px;">
+    <div>
+        <strong>Beyond Grounding: Extracting Fine-Grained Event Hierarchies Across Modalities</strong><br>
+        Hammad Ayyubi, Christopher Thomas, Lovish Chum, Rahul Lokesh, Long Chen, Yulei Niu, 
+        Xudong Lin, Xuande Feng, <strong>Jaywon Koo</strong>, Sounak Ray, Shih-Fu Chang<br>
+        Proceedings of the AAAI Conference on Artificial Intelligence. AAAI-24.<br>
+        <a href="https://web3.arxiv.org/abs/2206.07207">Paper</a>
+    </div>
+</div>
+
