@@ -22,3 +22,28 @@ News
 - [12/2023] Our paper “Beyond Grounding: Extracting Fine-Grained Event Hierarchies Across Modalities” is accepted to AAAI 2024.
 
 
+Publications
+============
+
+Preprints
+---------
+![Preprint Image](images/PropTest.pdf)  
+**PropTest: Automatic Property Testing for Improved Visual Programming**  
+Jaywon Koo, Ziyan Yang, Paola Cascante-Bonilla, Baishakhi Ray, Vicente Ordóñez  
+March, 2024.  
+[Paper](https://arxiv.org/abs/2403.16921) | [Project Page](https://jaywonkoo17.github.io/PropTest/)
+
+Publications
+------------
+![Publication Image](images/Sentiment_Analysis.png)  
+**Multimodal Multi-loss Fusion Network for Sentiment Analysis**  
+Zehui Wu*, Ziwei Gong*, **Jaywon Koo**, Julia Hirschberg (*Joint First Authors)  
+Annual Conference of the North American Chapter of the Association for Computational Linguistics. NACCL 2024.
+[Paper](https://arxiv.org/abs/2308.00264v4) | [Code](https://github.com/zehuiwu/MMML)
+
+![Publication Image](images/Beyond_Grounding.png)  
+**Beyond Grounding: Extracting Fine-Grained Event Hierarchies Across Modalities**  
+Hammad Ayyubi, Christopher Thomas, Lovish Chum, Rahul Lokesh, Long Chen, Yulei Niu, 
+Xudong Lin, Xuande Feng, **Jaywon Koo**, Sounak Ray, Shih-Fu Chang
+Proceedings of the AAAI Conference on Artificial Intelligence. AAAI-24.
+[Paper](https://web3.arxiv.org/abs/2206.07207)
