@@ -195,28 +195,20 @@ Particularly, PropTest improves ViperGPT by obtaining 46.1% accuracy (+6.0%) on 
 </section>
 <!-- End image carousel -->
 
-
-     <section class="section">
+<section class="section">
   <div class="container is-max-desktop">
     <div class="columns is-centered has-text-centered">
       <div class="column is-four-fifths">
-        <h2 class="title is-3">Qualitative Results</h2>
+        <h2 class="title is-3">Quantitative Results</h2>
         <img src="./static/images/Main_result.png" alt="Descriptive text about the image" style="max-width: 100%; height: auto;">
         <br>
-        <p class="is-size-5">Comparison of PropTest against end-to-end VLM and visual programming methods with CodeLlama-7B on the visual question answering task. </p>
+        <p class="is-size-5">Comparison of our method against visual programming methods with different LLMs across two tasks,
+four benchmarks. </p>
         <br>
-        <p class="is-size-6"> We report Accuracy on two visual question answering benchmarks. The number in the subscript indicates improvement over ViperGPT. 
-          (&dagger;) WizardCoder-15B has a 0.48x smaller context size than CodeLlama-7B despite having more parameters.
+        <p class="is-size-6">  We report Accuracy on two visual question answering benchmarks, and IoU on two visual
+grounding benchmarks. GPT-4o* results are only tested on 500 subsamples.
         </p>
         <div style="margin-bottom: 100px;"></div> 
-        <img src="./static/images/Table2.png" alt="Descriptive text about the image" style="max-width: 100%; height: auto;">
-        <br>
-        <p class="is-size-5">Comparison of PropTest against end-to-end VLM and visual programming methods with CodeLlama-7B on visual grounding tasks.  </p>
-        <br>
-        <p class="is-size-6"> 
-The number in the subscript indicates improvement over ViperGPT.(&dagger;) WizardCoder-15B has a 0.48x smaller context size than CodeLlama-7B despite having more parameters.
-        </p>
-        
       </div>
     </div>
   </div>
