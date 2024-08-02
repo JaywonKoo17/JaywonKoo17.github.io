@@ -46,7 +46,7 @@ Publications
     <div>
         <strong>Multimodal Multi-loss Fusion Network for Sentiment Analysis</strong><br>
         Zehui Wu*, Ziwei Gong*, <strong>Jaywon Koo</strong>, Julia Hirschberg (*Joint First Authors)<br>
-        Annual Conference of the North American Chapter of the Association for Computational Linguistics. NACCL 2024.<br>
+        Annual Conference of the North American Chapter of the Association for Computational Linguistics. NAACL 2024.<br>
         <a href="https://arxiv.org/abs/2308.00264v4">Paper</a> | <a href="https://github.com/zehuiwu/MMML">Code</a>
     </div>
 </div>
