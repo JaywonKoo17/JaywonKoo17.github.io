@@ -20,6 +20,7 @@ Previously, I graduated from Ewha Womans University with B.S. in Computer Scienc
 
 🔥 News
 ======
+-----------
 - [03/2024] Our paper "Multi-Modality Multi-Loss Fusion Network" is accepted to NAACL 2024. 🎉
 - [12/2023] Our paper “Beyond Grounding: Extracting Fine-Grained Event Hierarchies Across Modalities” is accepted to AAAI 2024. 🎉
 
