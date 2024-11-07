@@ -22,7 +22,7 @@ Previously, I graduated from Ewha Womans University with B.S. in Computer Scienc
 ======
 -----------
 - [09/2024] Our paper "PropTest: Automatic Property Testing for Improved Visual Programming" is accepted to EMNLP 2024 Findings. 🎉
-- [03/2024] Our paper "Multi-Modality Multi-Loss Fusion Network" is accepted to NAACL 2024. 🎉
+- [03/2024] Our paper "Multi-Modality Multi-Loss Fusion Network" is accepted to NAACL 2024 (oral). 🎉
 - [12/2023] Our paper “Beyond Grounding: Extracting Fine-Grained Event Hierarchies Across Modalities” is accepted to AAAI 2024. 🎉
 
 
@@ -51,7 +51,7 @@ Publications
     <div>
         <strong>Multimodal Multi-loss Fusion Network for Sentiment Analysis</strong><br>
         Zehui Wu*, Ziwei Gong*, <strong>Jaywon Koo</strong>, Julia Hirschberg (*Joint First Authors)<br>
-        Annual Conference of the North American Chapter of the Association for Computational Linguistics. NAACL 2024.<br>
+        Annual Conference of the North American Chapter of the Association for Computational Linguistics. NAACL 2024 (oral).<br>
         <a href="https://arxiv.org/abs/2308.00264v4">Paper</a> | <a href="https://github.com/zehuiwu/MMML">Code</a>
     </div>
 </div>
