@@ -40,7 +40,7 @@ Publications
     <img src="images/PropTest.png" alt="Preprint Image" style="width: 150px; margin-right: 20px;">
     <div>
         <strong>PropTest: Automatic Property Testing for Improved Visual Programming</strong><br>
-         <strong>Jaywon Koo</strong>, Ziyan Yang, Paola Cascante-Bonilla, Baishakhi Ray, Vicente Ordóñez<br>
+         <strong>Jaywon Koo</strong>, Ziyan Yang, Paola Cascante-Bonilla, Baishakhi Ray, Vicente Ordonez<br>
         Findings of Empirical Methods in Natural Language Processing. Findings of EMNLP 2024.<br>
         <a href="https://arxiv.org/abs/2403.16921">Paper</a> | <a href="https://jaywonkoo17.github.io/PropTest/">Project Page</a>
     </div>
