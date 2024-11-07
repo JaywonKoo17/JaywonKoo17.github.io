@@ -12,7 +12,7 @@ Hi! 👋
 
 I am a second year computer science PhD student at [Vislang Lab](https://vislang.ai/) at [Rice University](https://csweb.rice.edu/), advised by [Prof. Vicente Ordonez](https://www.cs.rice.edu/~vo9/).
 
-My research focuses on developing general intelligence by integrating visual and linguistic information to enhance world understanding. I am particularly interested in embodied AI, multimodal reasoning, and the application of neuro-symbolic methods.
+My research focuses on developing general intelligence by integrating visual and linguistic information to enhance world understanding. I am particularly interested in AI Agents, embodied AI, multimodal reasoning, and the application of neuro-symbolic methods.
 
 I completed my MS in Computer Science from [Columbia University](https://www.cs.columbia.edu/), where I worked on multimodal emotion detection in [Speech Lab](http://www.cs.columbia.edu/speech/lab.cgi), advised by Prof. [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). I have also worked with Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) at Columbia University.
 
