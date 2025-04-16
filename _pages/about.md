@@ -34,7 +34,7 @@ Preprints
 ---------
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="images/cFred.png" alt="Preprint Image" style="width: 150px; margin-right: 20px;">
+    <img src="images/overall_metrics_comparison.pdf" alt="Preprint Image" style="width: 150px; margin-right: 20px;">
     <div>
         <strong>Evaluating Text-to-Image Synthesis with a Conditional Frechet Distance</strong><br>
          <strong>Jaywon Koo*</strong>, Jefferson Hernandez*, Moayed Haji-Ali, Ziyan Yang, Vicente Ordonez (*Joint First Authors)<br>
