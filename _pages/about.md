@@ -22,7 +22,7 @@ Previously, I graduated from Ewha Womans University with B.S. in Computer Scienc
 ======
 -----------
 - [09/2024] Our paper "PropTest: Automatic Property Testing for Improved Visual Programming" is accepted to EMNLP 2024 Findings. 🎉
-- [03/2024] Our paper "Multi-Modality Multi-Loss Fusion Network" is accepted to NAACL 2024 (oral). 🎉
+- [03/2024] Our paper "Multi-Modality Multi-Loss Fusion Network" is accepted to NAACL 2024 (Oral). 🎉
 - [12/2023] Our paper “Beyond Grounding: Extracting Fine-Grained Event Hierarchies Across Modalities” is accepted to AAAI 2024. 🎉
 
 
@@ -32,6 +32,15 @@ Previously, I graduated from Ewha Womans University with B.S. in Computer Scienc
 
 Preprints
 ---------
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="images/cFred.png" alt="Preprint Image" style="width: 150px; margin-right: 20px;">
+    <div>
+        <strong>Evaluating Text-to-Image Synthesis with a Conditional Frechet Distance</strong><br>
+         <strong>Jaywon Koo*</strong>, Jefferson Hernandez*, Moayed Haji-Ali, Ziyan Yang, Vicente Ordonez (*Joint First Authors)<br>
+        <a href="https://arxiv.org/pdf/2503.21721">Paper</a> | <a href="https://github.com/JaywonKoo17/cFreD">Code</a>
+    </div>
+</div>
 
 
 Publications
