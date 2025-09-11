@@ -21,7 +21,7 @@ Previously, I graduated from Ewha Womans University with B.S. in Computer Scienc
 🔥 News
 ======
 -----------
-- [09/2025] Our paper "Evaluating Text-to-Image Synthesis with a Conditional Frechet Distance" is accepted to WACV 2026. 🎉
+- [09/2025] Our paper "Evaluating Text-to-Image and Text-to-Video Synthesis with a Conditional Frechet Distance" is accepted to WACV 2026. 🎉
 - [05/2025] I joined NEC Labs as a research intern this summer.
 - [09/2024] Our paper "PropTest: Automatic Property Testing for Improved Visual Programming" is accepted to EMNLP 2024 Findings. 🎉
 - [03/2024] Our paper "Multi-Modality Multi-Loss Fusion Network" is accepted to NAACL 2024 (Oral). 🎉
@@ -50,7 +50,7 @@ Publications
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="images/cfred.png" alt="Preprint Image" style="width: 150px; margin-right: 20px;">
     <div>
-        <strong>Evaluating Text-to-Image Synthesis with a Conditional Frechet Distance</strong><br>
+        <strong>Evaluating Text-to-Image and Text-to-Video Synthesis with a Conditional Frechet Distance</strong><br>
          <strong>Jaywon Koo*</strong>, Jefferson Hernandez*, Moayed Haji-Ali, Ziyan Yang, Vicente Ordonez (*Joint First Authors)<br>
          The IEEE/CVF Winter Conference on Applications of Computer Vision. WACV 2026.<br>
         <a href="https://arxiv.org/pdf/2503.21721">Paper</a> | <a href="https://github.com/JaywonKoo17/cFreD">Code</a>
