@@ -12,7 +12,7 @@ Hi! 👋
 
 I am a third year computer science PhD student at [Vislang Lab](https://vislang.ai/) at [Rice University](https://csweb.rice.edu/), advised by [Prof. Vicente Ordonez](https://www.cs.rice.edu/~vo9/).
 
-My research focuses on developing general intelligence by integrating visual and linguistic information to enhance world understanding. I am particularly interested in AI Agents, multimodal reasoning, and the application of neuro-symbolic methods.
+My research focuses on developing general intelligence by integrating visual and linguistic information to enhance world understanding. I am particularly interested in AI Agents and multimodal reasoning.
 
 I completed my MS in Computer Science from [Columbia University](https://www.cs.columbia.edu/), where I worked on multimodal emotion detection in [Speech Lab](http://www.cs.columbia.edu/speech/lab.cgi), advised by Prof. [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). I have also worked with Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) at Columbia University.
 
@@ -21,11 +21,11 @@ Previously, I graduated from Ewha Womans University with B.S. in Computer Scienc
 🔥 News
 ======
 -----------
+- [01/2026] Our paper "ProxyThinker: Test-Time Guidance through Small Visual Reasoners" is accepted to ICLR 2026. 🎉
 - [09/2025] Our paper "Evaluating Text-to-Image and Text-to-Video Synthesis with a Conditional Frechet Distance" is accepted to WACV 2026. 🎉
 - [05/2025] I joined NEC Labs as a research intern this summer.
 - [09/2024] Our paper "PropTest: Automatic Property Testing for Improved Visual Programming" is accepted to EMNLP 2024 Findings. 🎉
 - [03/2024] Our paper "Multi-Modality Multi-Loss Fusion Network" is accepted to NAACL 2024 (Oral). 🎉
-- [12/2023] Our paper “Beyond Grounding: Extracting Fine-Grained Event Hierarchies Across Modalities” is accepted to AAAI 2024. 🎉
 
 
 📝 Publications
@@ -35,18 +35,19 @@ Previously, I graduated from Ewha Womans University with B.S. in Computer Scienc
 Preprints
 ---------
 
+
+Publications
+------------
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="images/ProxyThinker.png" alt="Preprint Image" style="width: 150px; margin-right: 20px;">
     <div>
         <strong>ProxyThinker: Test-Time Guidance through Small Visual Reasoners</strong><br>
         Zilin Xiao, <strong>Jaywon Koo</strong>, Siru Ouyang, Jefferson Hernandez, Yu Meng, Vicente Ordonez<br>
+      The Fourteenth International Conference on Learning Representations. ICLR 2026. <br>
         <a href="https://arxiv.org/pdf/2505.24872">Paper</a> | <a href="https://github.com/MrZilinXiao/ProxyThinker">Code</a>
     </div>
 </div>
 
-
-Publications
-------------
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="images/cfred.png" alt="Preprint Image" style="width: 150px; margin-right: 20px;">
     <div>
