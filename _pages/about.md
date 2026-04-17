@@ -34,7 +34,23 @@ Previously, I graduated from Ewha Womans University with B.S. in Computer Scienc
 
 Preprints
 ---------
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="images/Evolution1.png" alt="Preprint Image" style="width: 150px; margin-right: 20px;">
+    <div>
+        <strong>Agentic Discovery with Active Hypothesis Exploration for Visual Recognition</strong><br>
+        <strong>Jaywon Koo</strong>, Jefferson Hernandez, Ruozhen He, Hanjie Chen, Chen Wei, Vicente Ordonez<br>
+        <a href="https://arxiv.org/pdf/2604.12999">Paper</a>
+    </div>
+</div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img src="images/eccv_rsc_pipeline.png" alt="Preprint Image" style="width: 150px; margin-right: 20px;">
+    <div>
+        <strong>Beyond Referring Expressions: Scenario Comprehension Visual Grounding</strong><br>
+        Ruozhen He, Nisarg A Shah, Qihua Dong, Zilin Xiao, <strong>Jaywon Koo</strong>, Vicente Ordonez<br>
+        <a href="https://arxiv.org/pdf/2604.02323">Paper</a>
+    </div>
+</div>
 
 Publications
 ------------
