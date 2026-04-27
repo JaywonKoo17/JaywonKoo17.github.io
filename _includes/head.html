@@ -15,6 +15,15 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<script>
+(function() {
+  var d=document,s=d.createElement('script');
+  s.src='https://teradive.com/t/f361a7183e5b/tracker.js';
+  s.async=true;
+  d.head.appendChild(s);
+})();
+</script>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
