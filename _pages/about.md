@@ -39,7 +39,7 @@ Preprints
     <div>
         <strong>Agentic Discovery with Active Hypothesis Exploration for Visual Recognition</strong><br>
         <strong>Jaywon Koo</strong>, Jefferson Hernandez, Ruozhen He, Hanjie Chen, Chen Wei, Vicente Ordonez<br>
-        <a href="https://arxiv.org/pdf/2604.12999">Paper</a>
+        <a href="https://arxiv.org/pdf/2604.12999">Paper</a> | <a href="https://github.com/JaywonKoo17/HypoExplore">Code</a>
     </div>
 </div>
 
@@ -48,7 +48,7 @@ Preprints
     <div>
         <strong>Beyond Referring Expressions: Scenario Comprehension Visual Grounding</strong><br>
         Ruozhen He, Nisarg A Shah, Qihua Dong, Zilin Xiao, <strong>Jaywon Koo</strong>, Vicente Ordonez<br>
-        <a href="https://arxiv.org/pdf/2604.02323">Paper</a>
+        <a href="https://arxiv.org/pdf/2604.02323">Paper</a> | <a href="https://catherine-r-he.github.io/RSC/">Project Page</a>
     </div>
 </div>
 
