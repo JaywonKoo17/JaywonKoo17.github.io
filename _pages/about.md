@@ -16,7 +16,7 @@ My research focuses on developing general intelligence by integrating visual and
 
 I completed my MS in Computer Science from [Columbia University](https://www.cs.columbia.edu/), where I worked on multimodal emotion detection in [Speech Lab](http://www.cs.columbia.edu/speech/lab.cgi), advised by Prof. [Julia Hirschberg](http://www.cs.columbia.edu/~julia/). I have also worked with Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) at Columbia University.
 
-Previously, I graduated from Ewha Womans University with B.S. in Computer Science and Engineering, and Scranton Honors Program in 2021, where I was advised by Prof. [Dongbo Min](http://cvl.ewha.ac.kr/) and by Prof. [Hyun-Seok Park](http://www.ewha.ac.kr/ewha/professor/info.do?mode=view&pId=xPCsLydiqzj%2FKdbYExXJKg%3D%3D) .
+Previously, I graduated from Ewha Womans University with B.S. in Computer Science and Engineering, and Scranton Honors Program , where I was advised by Prof. [Dongbo Min](http://cvl.ewha.ac.kr/) and by Prof. [Hyun-Seok Park](http://www.ewha.ac.kr/ewha/professor/info.do?mode=view&pId=xPCsLydiqzj%2FKdbYExXJKg%3D%3D) .
 
 🔥 News
 ======
